@@ -1,0 +1,18 @@
+.user-details {
+    background: #dadada;
+    margin: 20px;
+    padding: 20px;
+
+
+}
+
+.user-details label {
+    font-weight: bold;
+    display: block;
+    margin-top: 20px;
+}
+
+.user-details button {
+    margin-top: 20px;
+    padding: 10px;
+}

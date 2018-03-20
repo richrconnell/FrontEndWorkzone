@@ -1,0 +1,16 @@
+.user-form {
+    background: #dadada;
+    margin: 20px;
+    padding: 20px;
+}
+
+.user-form label {
+    font-weight: bold;
+    display: block;
+    margin-top: 20px;
+}
+
+.user-form button {
+    margin-top: 20px;
+    padding: 10px;
+}
